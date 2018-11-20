@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 ## Usage
 Extract hashses from a PCAP file:
 ```
-./bthash -f pcap_example/demp.pcap
+./bthash -f pcap_example/demo.pcap
 ````
 Extract hashses from live network traffic:
 ```
